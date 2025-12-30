@@ -1374,6 +1374,21 @@ section.new_seo_section {
   border: 2px solid transparent;
   white-space: nowrap;
 }
+.parent_new_sub p {
+    overflow: hidden;
+    color: #393434;
+    font-size: 16px;
+    font-family: DMSans-Regular;
+    font-weight: 400;
+    margin: 5px 0;
+    line-height: 25px;
+}
+.google-review p {
+    font-size: 18px;
+    font-family: 'DMSans-Medium';
+    color: #000;
+    margin: 10px 0;
+}
 
 .grb-button:hover {
     background-color: #0f64d0;
